@@ -1,0 +1,70 @@
+{
+  "normal": [
+    {
+      "id": 1,
+      "title": "مرحله اول",
+      "waves": 3,
+      "ducks": 2,
+      "pointsPerDuck": 100,
+      "speed": 5,
+      "bullets": 3,
+      "radius": 60,
+      "time": 13
+    },
+    {
+      "id": 2,
+      "title": "مرحله دوم",
+      "waves": 5,
+      "ducks": 3,
+      "pointsPerDuck": 100,
+      "speed": 6,
+      "bullets": 4,
+      "radius": 60,
+      "time": 10
+    },
+    {
+      "id": 3,
+      "title": "مرحله سوم",
+      "waves": 6,
+      "ducks": 3,
+      "pointsPerDuck": 100,
+      "speed": 7,
+      "bullets": 4,
+      "radius": 60,
+      "time": 10
+    },
+    {
+      "id": 4,
+      "title": "مرحله چهارم",
+      "waves": 3,
+      "ducks": 10,
+      "pointsPerDuck": 100,
+      "speed": 7,
+      "bullets": 11,
+      "radius": 60,
+      "time": 18
+    },
+    {
+      "id": 5,
+      "title": "مرحله پنجم",
+      "waves": 5,
+      "ducks": 2,
+      "pointsPerDuck": 100,
+      "speed": 8,
+      "bullets": 3,
+      "radius": 60,
+      "time": 13
+    },
+    {
+      "id": 6,
+      "title": "مرحله ششم",
+      "waves": 1,
+      "ducks": 15,
+      "pointsPerDuck": 100,
+      "speed": 8,
+      "bullets": 15,
+      "radius": 60,
+      "time": 25
+    }
+  ]
+}
